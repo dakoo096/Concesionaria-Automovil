@@ -30,3 +30,9 @@ Este proyecto,realizado en el curso de Programación Orientada a Objetos en Java
   - **igu**: Contiene las clases relacionadas con la interfaz gráfica.
   - **logica**: Contiene las clases con la lógica de negocio.
   - **persistencia**: Contiene las clases para el manejo de la persistencia de datos.
+![con2](https://github.com/user-attachments/assets/42e25a7b-c304-4b24-b2dc-bddea18fc6e1)
+![conc3](https://github.com/user-attachments/assets/5c190955-6c01-41aa-a55c-78c33c2f9835)
+![conc4](https://github.com/user-attachments/assets/aad9e2ba-3563-4b6a-8647-0e8bc15c424a)
+![conc5](https://github.com/user-attachments/assets/0f5ff558-beb7-46b7-b9b7-ecdda5e235ca)
+![conc6](https://github.com/user-attachments/assets/bd37673c-9057-4bc0-9b4d-ad11fbe120d8)
+![conc1](https://github.com/user-attachments/assets/7bfe2651-6524-4828-a592-15fb52943e91)
